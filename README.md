@@ -7,3 +7,10 @@
 ### 效果：
 
 ![图片](http://images.helloarron.com/Qixi.gif)
+
+
+### About
+
+个人首页：[http://helloarron.com](http://helloarron.com)
+
+个人博客：[http://blog.helloarron.com ](http://blog.helloarron.com ) 
